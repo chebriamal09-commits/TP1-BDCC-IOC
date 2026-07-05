@@ -1,0 +1,3 @@
+net.amal.ext.DaoImplV2
+net.amal.metier.MetierImpl
+

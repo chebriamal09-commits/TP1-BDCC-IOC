@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans>
+
+    <bean
+            id="dao"
+            class="net.amal.dao.DaoImpl"/>
+
+    <bean
+            id="metier"
+            class="net.amal.metier.MetierImpl"/>
+
+</beans>
